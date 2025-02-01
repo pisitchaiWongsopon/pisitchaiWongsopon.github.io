@@ -6,3 +6,5 @@
 [Log](Log.md)
  
 [E-Card](e-card.md)
+
+[bordgame](bordgame.html)
