@@ -1,6 +1,6 @@
 #  🤖 NCSA Boardgame with Seven Group 7️⃣
 ### >>>>>> บอร์ดเกมที่ทั้งสนุกและได้ความรู้ด้านความปลอดภัย
-![bgame](img/bgame.jpg)
+![bgame](images/bg.jpg)
 
 #### กิจกรรม Cyber Board Game 🧩
 - เป็นกิจกรรมที่นำความรู้ แนวคิดเกี่ยวกับด้านความปลอดภัยไซเบอร์ มาประยุกต์ใช้ในรูปแบบเกมกระดาน มีการออกแบบเนื้อหา เช่น ธีมเกม กฎ กติกา และสถานการณ์สมมติที่เกี่ยวข้องกับภัยคุกคามไซเบอร์ เพื่อสร้างความเข้าใจง่ายในเนื้อหาความรู้ และความสนุกสนานในการเล่นเกม
@@ -16,7 +16,7 @@
 - ผู้ที่มาถึงเส้นชัยก่อนคือผู้ชนะ 🏅
 
 ### ภาพ/วิดีโอ กิจกรรม 🎞️
-![bgame-seven](img/bgame-seven.jpg)
+![bgame-seven](images/BTS.jpg)
 
 [👉 Click to watch the video 📽️](https://drive.google.com/file/d/1swEFVGy7NZIjdUpkvj9tQjwjgMvlxWBd/view?usp=sharing)
 
@@ -50,11 +50,11 @@
 
 ### สมาชิก
 - [go to page >]() 6530250140 - Pattarapa Thap-Amphan 
-- [go to page >]() 6530250174 - Pisitchai Wongsopon
-- [go to page >]() 6530250221 - Wilaiphan Kunlachet
-- [go to page >]() 6530250417 - Panita Yapolha
+- [go to page >](https://pisitchaiwongsopon.github.io/boardgame-seven) 6530250174 - Pisitchai Wongsopon
+- [go to page >](https://wilaiphan.github.io/boardgame-seven) 6530250221 - Wilaiphan Kunlachet
+- [go to page >](https://panita18.github.io/boardgame-seven ) 6530250417 - Panita Yapolha
 - [go to page >](https://wariisara.github.io/boardgame-seven) 6530250468 - Warisara Yamma
-- [go to page >]() 6530250603 - Suphattra Prasomsap
-- [go to page >]() 6530250565 - Panissara Poungurai
+- [go to page >](https://suphat00.github.io/boardgame-seven) 6530250603 - Suphattra Prasomsap
+- [go to page >](https://aum8362.github.io/boardgame-seven) 6530250565 - Panissara Poungurai
 
 ---
