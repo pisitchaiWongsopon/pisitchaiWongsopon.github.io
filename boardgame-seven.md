@@ -16,7 +16,9 @@
 - ผู้ที่มาถึงเส้นชัยก่อนคือผู้ชนะ 🏅
 
 ### ภาพ/วิดีโอ กิจกรรม 🎞️
-![bgame-seven](images/BTS.jpg)
+![bgame-seven](images/BTS.jpg)|![bgame-seven](images/BTS2.jpg)
+![bgame-seven](images/BTS1.jpg)|![bgame-seven](images/BTS3.jpg)
+
 
 [👉 Click to watch the video 📽️](https://drive.google.com/file/d/1swEFVGy7NZIjdUpkvj9tQjwjgMvlxWBd/view?usp=sharing)
 
